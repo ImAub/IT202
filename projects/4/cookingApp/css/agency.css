@@ -8,7 +8,7 @@ body {
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .servicePhoto{
-  background-image: url('../aubPhotos/Longhorn.jpg');
+  background-image: url('../img/about/seasonin.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -19,7 +19,7 @@ body {
   text-align: center;
 }
 .text-muted {
-  color: #fff;
+  color: #080808;
 }
 .text-primary {
   color: #fed136;
@@ -61,7 +61,7 @@ h6 {
   margin: 0 auto;
 }
 .bg-darkest-gray {
-  background-color: #222222;
+  background-color: #22222 ;
 }
 .btn-primary {
   color: white;
@@ -234,7 +234,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../aubPhotos/FullSizeRender.jpg');
+  background-image: url('../img/about/ayeCookingheader.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -292,7 +292,7 @@ section h2.section-heading {
   font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
-  color: #fff;
+  color: #080808;
 }
 section h3.section-subheading {
   font-size: 16px;
@@ -301,6 +301,7 @@ section h3.section-subheading {
   font-style: italic;
   font-weight: 400;
   margin-bottom: 75px;
+  color: #080808;
 }
 @media (min-width: 768px) {
   section {
@@ -564,7 +565,7 @@ aside.clients img {
   margin: 50px auto;
 }
 section {
-  background-color: #808080;
+  background-color: #E3AE00;
 }
 section#contact {
   background-color: #222222;
